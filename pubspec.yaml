@@ -1,6 +1,6 @@
 name: dial_timer
 description: "A beautiful circular dial timer widget for Flutter."
-version: 0.0.1+1
+version: 0.0.2
 
 repository: https://github.com/jinhyeon-dev/dial_timer
 homepage: https://github.com/jinhyeon-dev/dial_timer
