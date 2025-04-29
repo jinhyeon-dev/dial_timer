@@ -1,5 +1,7 @@
 # 📦 dial_timer
 
+[🇺🇸 English](./README.md) | [🇰🇷 한국어](./README.KO.md)
+
 A beautiful circular dial timer widget for Flutter.
 
 Easily select a time (in minutes) by dragging around a circular dial UI.
